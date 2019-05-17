@@ -1,0 +1,12 @@
+Home Page: index.php
+
+Database Name: online
+Tables: products.sql
+	users.sql
+
+
+User Accounts:
+
+Email				Password
+sai@example.com		        301947
+admin@example.com		admin
