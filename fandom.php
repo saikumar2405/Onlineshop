@@ -9,7 +9,7 @@ if(!isset($_SESSION['username'])){
 <html>
 <head>
 <link rel="icon" href="res/shoponline.jpg" sizes="16x16">
-<link rel="stylesheet" type="text/css" href="css/fand.css">
+<link rel="stylesheet" type="text/css" href="css/fan.css">
 <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 <title>Choose your Fandom- onlineshop</title>
 <style type="text/css">
