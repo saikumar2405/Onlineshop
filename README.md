@@ -8,7 +8,8 @@ Features:
 
 Tech Stack: HTML, CSS, Bootstrap, JavaScript, PHP, SQL, Apache Server (XAMPP)
 
+* Copy all the folders and files in C:\xampp\htdocs\shop
 &nbsp;  
 By,  
-S.Saikumar  
+S.Saikumar Rao
  
