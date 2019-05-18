@@ -47,14 +47,14 @@ if(!isset($_SESSION['username'])){
 </a>
 </div></td>
 
-<td><div id="Women">
+<td><div id="women">
 <a href="women.php" style="text-decoration: none;">
 <img class="circle" src="res/main/img2.png">
 <p align="center"><strong style="color:white">Women</strong></p>
 </a>
 </div></td>
 
-<td><div id="Kids">
+<td><div id="kids">
 <a href="kids.php" style="text-decoration: none;">
 <img class="circle" src="res/main/img6.png">
 <p align="center"><strong style="color:white">Kids</strong></p>
